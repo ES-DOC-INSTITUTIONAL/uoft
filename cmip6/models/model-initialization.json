@@ -1,0 +1,22 @@
+{
+    "uoft-ccsm4": {
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }
+}
